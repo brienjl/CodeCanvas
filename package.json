@@ -1,0 +1,40 @@
+{
+  "name": "codecanvas",
+  "version": "1.0.0",
+  "description": "My playground for generative art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brienjl/CodeCanvas.git"
+  },
+  "keywords": [
+    "generative",
+    "art",
+    "javascript"
+  ],
+  "author": "jeremy lawrence brien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brienjl/CodeCanvas/issues"
+  },
+  "homepage": "https://github.com/brienjl/CodeCanvas#readme",
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "canvas-sketch": "^0.7.7",
+    "canvas-sketch-cli": "^1.15.0",
+    "canvas-sketch-util": "^1.10.0",
+    "convex-hull": "^1.0.3",
+    "eases": "^1.0.8",
+    "gl-matrix": "^3.4.3",
+    "glsl-face-normal": "^1.0.2",
+    "glsl-hsl2rgb": "^1.1.0",
+    "glsl-noise": "^0.0.0",
+    "load-asset": "^1.2.0",
+    "nice-color-palettes": "^4.0.0",
+    "regl": "^2.1.0",
+    "three": "^0.169.0"
+  }
+}
