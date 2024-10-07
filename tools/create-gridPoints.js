@@ -1,6 +1,6 @@
-module.exports = { createGrid };
+module.exports = { createGridPoints };
 
-function createGrid (num) {
+function createGridPoints (num) {
     const count = num;
     const points = [];
     for (let x = 0; x < count; x++ ){
