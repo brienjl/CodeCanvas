@@ -1,5 +1,5 @@
 const canvasSketch = require('canvas-sketch');
-const { createGrid, createGridPoints } = require('../../tools/create-gridPoints')
+const { createGrid, createGridPoints } = require('../../../tools/create-gridPoints')
 
 const settings = {
     dimensions: [2048, 2048]

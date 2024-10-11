@@ -1,5 +1,5 @@
 const canvasSketch = require('canvas-sketch');
-const { createGridPoints } = require('../../tools/create-gridPoints')
+const { createGridPoints } = require('../../../tools/create-gridPoints')
 const { lerp } = require('canvas-sketch-util/math');
 
 const settings = {
