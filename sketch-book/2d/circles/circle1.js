@@ -9,7 +9,7 @@ const bgColor = '#181818';
 const randomised = {
     hue: random(0, 360),
     rotation: random(-180, 180),
-    iterations: random(10, 100)
+    iterations: random(50, 100)
 }
 
 // Create our parent SVG element and attach it to the element with id 'container'.
